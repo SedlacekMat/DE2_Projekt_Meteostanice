@@ -9,7 +9,7 @@
 
 Link to this file in your GitHub repository:
 
-[https://github.com/SedlacekMat/DE2_Projekt_Meteostanice/tree/main/README.md](https://github.com/SedlacekMat/DE2_Projekt_Meteostanice/tree/main/README.md)
+[https://github.com/SedlacekMat/DE2_Projekt_Meteostanice](https://github.com/SedlacekMat/DE2_Projekt_Meteostanice)
 
 ### Table of contents
 
